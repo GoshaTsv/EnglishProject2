@@ -1,0 +1,29 @@
+body{
+    background-color: coral;
+    
+}
+.middletext{
+    margin-inline-start: 650px;
+    font-family: monospace;
+    font-weight: 400;
+    font-size: 50px;
+    transition: 1s;
+    color: black;
+}
+.middletext:hover{
+    color: black;
+}
+.text{
+    margin-inline-start: 20px;
+    margin-top: 20px;
+    font-size: 30px;
+    font-family: sans-serif;
+    transition: 2s;
+    color: gray;
+}
+.text:hover{
+    font-size: 40px;
+    rotate: 1deg;
+    font-weight: 600;
+    color: black;
+}
